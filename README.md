@@ -1,8 +1,8 @@
 # chuleta-madre
 Proyectos o librerías externas de mucha ayuda
-Fondos:
+## Fondos:
 - https://bg.ibelick.com/
-SVG (iconos):
+## SVG (iconos):
 - https://www.svgrepo.com/
-Animaciones:
+## Animaciones:
 - https://animista.net/
