@@ -6,3 +6,5 @@ Proyectos o librerías externas de mucha ayuda
 - https://www.svgrepo.com/
 ## Animaciones:
 - https://animista.net/
+## SEO y OTROS (checklist)
+- https://frontendchecklist․io
