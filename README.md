@@ -7,4 +7,4 @@ Proyectos o librerías externas de mucha ayuda
 ## Animaciones:
 - https://animista.net/
 ## SEO y OTROS (checklist)
-- https://frontendchecklist․io
+- https://frontendchecklist.io/
