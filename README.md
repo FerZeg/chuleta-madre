@@ -8,3 +8,5 @@ Proyectos o librerías externas de mucha ayuda
 - https://animista.net/
 ## SEO y OTROS (checklist)
 - https://frontendchecklist.io/
+## Tooltip
+- https://kushagra.dev/lab/hint/
