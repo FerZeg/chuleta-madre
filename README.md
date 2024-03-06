@@ -14,3 +14,5 @@ Proyectos o librerías externas de mucha ayuda
 - https://drag-and-drop.formkit.com/
 ## Analizadores código
 - CSS https://www.projectwallace.com/
+## Optimización media
+- https://squoosh.app/
