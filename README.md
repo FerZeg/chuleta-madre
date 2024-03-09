@@ -16,3 +16,5 @@ Proyectos o librerías externas de mucha ayuda
 - CSS https://www.projectwallace.com/
 ## Optimización media
 - https://squoosh.app/
+## FrontEnd patterns
+- patterns․dev
