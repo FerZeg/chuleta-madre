@@ -18,3 +18,5 @@ Proyectos o librerías externas de mucha ayuda
 - https://squoosh.app/
 ## FrontEnd patterns
 - patterns․dev
+## Rutas de aprendizaje
+- https://roadmap.sh/
