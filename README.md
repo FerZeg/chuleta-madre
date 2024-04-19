@@ -21,3 +21,5 @@ Proyectos o librerías externas de mucha ayuda
 - patterns․dev
 ## Rutas de aprendizaje
 - https://roadmap.sh/
+## Herramientas varias
+- https://omatsuri.app/
